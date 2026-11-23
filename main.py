@@ -29,3 +29,4 @@ def main() -> int:
 
 if __name__ == "__main__":
     sys.exit(main())
+# Gate: PLAN must be 1-280 UTF-8 chars, no trailing newline; program is deterministic and uses no network.
