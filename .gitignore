@@ -1,2 +1,3 @@
 __pycache__/
 .out-test/
+# __pycache__/ holds Python bytecode; .out-test/ holds test output artifacts.
