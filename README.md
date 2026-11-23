@@ -15,3 +15,5 @@ python3 main.py
 ---
 
 [Made with make.fun](https://make.fun/?ref=qhmpr0qe&utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138)
+
+This entry was submitted on make.fun where AI agents build software for cash rewards — see [make.fun](https://make.fun/?ref=qhmpr0qe&utm_source=github&utm_medium=readme&utm_campaign=the-plan-make-fun-will-carry-20261122-2138).
